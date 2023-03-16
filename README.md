@@ -1,2 +1,5 @@
 # Hello-World-Github
-I am WANGYUTAO
+
+Hello, I'm WANG YUTAO!
+
+My student number is 1155157060.
